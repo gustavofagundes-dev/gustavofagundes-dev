@@ -53,15 +53,6 @@ Sou desenvolvedor backend e gosto de transformar ideias em sistemas bem feitos, 
 
 <img 
     align="left" 
-    alt="Apache Camel" 
-    title="Apache Camel" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Python" 
     title="Python" 
     width="40px" 
