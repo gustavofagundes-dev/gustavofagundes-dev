@@ -2,32 +2,19 @@
 
 **`Desenvolvedor BackEnd`**
 
-Sou desenvolvedor backend e gosto de transformar ideias em sistemas bem feitos, rápidos e organizados. Trabalho principalmente com Java + Spring Boot e Python + Django, além de ter experiência com AWS, SQL e Git. Estou sempre buscando evoluir como dev e entregar soluções que realmente fazem diferença.
+Sou desenvolvedor backend e gosto de transformar ideias em sistemas bem feitos, rápidos e organizados. Trabalho principalmente com Java + Spring Boot e Python + FastAPI, além de ter experiência com AWS, SQL e Git. Estou sempre buscando evoluir como dev e entregar soluções que realmente fazem diferença.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/gustavo-fagundes-97b667242/" target="_blank">
-    <img 
-        alt="LinkedIn" 
-        title="Conecte-se comigo no LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
-    />
-</a>
-    <a href="https://github.com/gustavofagundes-dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gustavofagundes-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/gustavofagundes-dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gustavofagundes-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
+<div>
+  <a href="https://www.linkedin.com/in/gustavo-fagundes-97b667242/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://discord.gg/guhzn333" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:gustavodev1@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
 
 ---
 
@@ -62,11 +49,11 @@ Sou desenvolvedor backend e gosto de transformar ideias em sistemas bem feitos, 
 
 <img 
     align="left" 
-    alt="Django" 
-    title="Django" 
+    alt="FastAPI" 
+    title="FastAPI" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" 
 />
 
 <img 
@@ -102,19 +89,14 @@ Sou desenvolvedor backend e gosto de transformar ideias em sistemas bem feitos, 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavofagundes-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gustavofagundes-dev&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
-
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofagundes-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gustavofagundes-dev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavofagundes-dev&show_icons=true" />
+</picture>
